@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WorkFolder-okhttputils.iml" filepath="$PROJECT_DIR$/.idea/modules/WorkFolder-okhttputils.iml" group="okhttputils" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttputils/okhttputils-okhttputils.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttputils/okhttputils-okhttputils.iml" group="okhttputils/okhttputils" />
-      <module fileurl="file://$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" filepath="$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" group="okhttputils/sample-okhttp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttputils.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttputils/okhttputils.okhttputils.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttputils/okhttputils.okhttputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample-okhttp/okhttputils.sample-okhttp.iml" filepath="$PROJECT_DIR$/.idea/modules/sample-okhttp/okhttputils.sample-okhttp.iml" />
     </modules>
   </component>
 </project>
